@@ -1,0 +1,63 @@
+[
+  {
+    "title": "NOTIFICATIONS",
+    "icon": "faChartSimple"
+  },
+  {
+    "title": "SUMMARY",
+    "icon": "faChartSimple",
+    "childrens": [
+      {
+        "title": "Hello"
+      },
+      {
+        "title": "Hello"
+      }
+    ]
+  },
+  {
+    "title": "PUBLISH",
+    "icon": "faPenToSquare",
+    "childrens": [
+      {
+        "title": "Hello"
+      },
+      {
+        "title": "Hello"
+      }
+    ]
+  },
+  {
+    "title": "ENGAGE",
+    "icon": "faComments",
+    "childrens": [
+      {
+        "title": "Hello"
+      },
+      {
+        "title": "Hello"
+      }
+    ]
+  },
+  {
+    "title": "LISTEN",
+    "icon": "faEarListen",
+    "childrens": [
+      {
+        "title": "Hello"
+      },
+      {
+        "title": "Hello"
+      }
+    ]
+  },
+  {
+    "title": "REPORT",
+    "icon": "faChartLine",
+    "childrens": [
+      {
+        "title": "Hello"
+      }
+    ]
+  }
+]
