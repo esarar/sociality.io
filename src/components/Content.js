@@ -8,8 +8,6 @@ function Content({ item, isShow }) {
     setContentData(item);
   });
 
-  console.log(item);
-
   function getImageError(e) {
     e.currentTarget.src = require("../assets/no-post-image.png");
   }
