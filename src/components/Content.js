@@ -20,6 +20,7 @@ function Content({ item, isShow }) {
     <div className="content-container">
       <div className="content-date">{postDateFirst}</div>
       {Array.from(item["2021-07-01"]).map((card, index) => {
+        console.log(card.entry.image);
         return (
           <div className="content-card">
             <div
